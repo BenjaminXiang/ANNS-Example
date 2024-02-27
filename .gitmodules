@@ -1,8 +1,8 @@
 [submodule "hnswlib"]
 	path = hnswlib
 	url = https://github.com/BenjaminXiang/hnswlib.git
-	branch = master
+	branch = submodule
 [submodule "SSG"]
 	path = SSG
 	url = https://github.com/BenjaminXiang/SSG.git
-	branch = master
+	branch = submodule
